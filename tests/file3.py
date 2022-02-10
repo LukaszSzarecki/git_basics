@@ -1,5 +1,6 @@
 print(2+2)
 print(2 + 2)
+print(23 + 23)
 
 courses = ['statistics', 'python', 'linear algebra']
 
