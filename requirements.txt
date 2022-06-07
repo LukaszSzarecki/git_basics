@@ -1,0 +1,7 @@
+matplotlib==3.5.1
+pandas==1.4.1
+keyboard==0.13.5
+numpy==1.22.2
+pyfiglet==0.8.post1
+source==1.2.0
+python-json-logger==2.0.2
